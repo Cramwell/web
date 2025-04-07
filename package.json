@@ -31,7 +31,7 @@
     "@react-email/components": "^0.0.36",
     "@stripe/react-stripe-js": "^3.6.0",
     "@stripe/stripe-js": "^7.0.0",
-    "@uploadthing/react": "^7.4.0",
+    "@uploadthing/react": "^7.6.0",
     "bcryptjs": "^3.0.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
